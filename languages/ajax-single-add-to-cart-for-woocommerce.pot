@@ -1,0 +1,58 @@
+# Copyright (C) 2021 GrandPlugins
+# This file is distributed under the same license as the Ajax Single Add to cart for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Single Add to cart for WooCommerce 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-18T11:20:45+00:00\n"
+"X-Domain: ajax-single-add-to-cart-for-woocommerce\n"
+
+#. Description of the plugin
+msgid "The plugin allows AJAX add to cart without refresh in single product page for all product types."
+msgstr ""
+
+#: includes/AddToCart.php:63
+msgid "missing product ID"
+msgstr ""
+
+#: includes/AddToCart.php:76
+msgid "Invalid Product ID"
+msgstr ""
+
+#: includes/AddToCart.php:103
+msgid "Invalid Product Type"
+msgstr ""
+
+#: includes/Settings.php:103
+msgid "Single Product Ajax Add to cart"
+msgstr ""
+
+#: includes/Settings.php:108
+msgid "Enable Single Ajax Add To Cart"
+msgstr ""
+
+#: includes/Settings.php:109
+msgid "Simple products"
+msgstr ""
+
+#: includes/Settings.php:110
+msgid "Enable / Disable Ajax Add to caert in single simple product page"
+msgstr ""
+
+#: includes/Settings.php:119
+msgid "Enable / Disable Ajax Add to cart in single variable product page"
+msgstr ""
+
+#: includes/Settings.php:120
+msgid "Variable products"
+msgstr ""
+
+#: includes/Settings.php:129
+msgid "Enable / Disable Ajax Add to cart in single grouped product page"
+msgstr ""
+
+#: includes/Settings.php:130
+msgid "Grouped products"
+msgstr ""
